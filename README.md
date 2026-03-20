@@ -1,13 +1,13 @@
 # Hey there 👋
 
-**Bioinformatician & Molecular Biologist**  
+**Bioinformatician & Biochemist**  
 Combining wet lab experience with dry biology to solve real-world problems
 
 ---
 
 ## About Me
 
-- **Background:** BSc in Biochemistry (Kuban State University), with hands-on experience in molecular biology, virology, and industrial biotechnology.
+- **Background:** BSc in Biochemistry (Kuban State University, Krasnodar, Russia), with hands-on experience in molecular biology, virology, and industrial biotechnology.
 - **Currently focused on:** Bioinformatics, computational biology, and building tools that bridge the gap between bench work and data analysis.
 - **Experience:**
   - Molecular biologist / virologist (plant viruses, PCR, microbial identification);
