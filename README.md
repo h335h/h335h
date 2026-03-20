@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hey, I'm Vitaly Pesnev
 
-<!--
-**h335h/h335h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bioinformatician & Molecular Biologist**  
+Combining wet lab experience with dry biology to solve real-world problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- **Background:** BSc in Biochemistry (Kuban State University), with hands-on experience in molecular biology, virology, and industrial biotechnology.
+- **Currently focused on:** Bioinformatics, computational biology, and building tools that bridge the gap between bench work and data analysis.
+- **Experience:**
+  - Molecular biologist / virologist at a research institute (plant viruses, PCR, microbial identification).
+  - Engineer-biotechnologist at Kuban State Agrarian University.
+- **Always learning:** Python, R, machine learning, NLP, and modern bioinformatics pipelines.
+- **Next steps:** Applying for a Master’s in Biotechnology (St. Petersburg, 2027) with a long‑term goal of a PhD.
+
+---
+
+## Tech
+
+- **Languages:** Python, R, Bash
+---
+
+
+
+## How to reach me
+
+- 📧 [v.pesnev.v@gmail.com](mailto:v.pesnev.v@gmail.com)  
+- 💬 Telegram: [@vpesnev](https://t.me/vpesnev)  
+
+---
+
+*Open to collaborations, bioinformatics internships, or just a chat about science and code!*
