@@ -7,7 +7,7 @@ Combining wet lab experience with in silico approaches to solve real-world probl
 
 ## About Me
 
-- **Background:** BSc in Biochemistry (Kuban State University, Krasnodar, Russia), with hands-on experience in molecular biology, virology, and industrial biotechnology.
+- **Education:** BSc in Biochemistry (Kuban State University, Krasnodar, Russia).
 - **Currently focused on:** Bioinformatics, computational biology, and building tools that bridge the gap between bench work and data analysis.
 - **Experience:**
   - **Molecular biology / virology** – plant viruses, RT-qPCR, microbial identification;  
